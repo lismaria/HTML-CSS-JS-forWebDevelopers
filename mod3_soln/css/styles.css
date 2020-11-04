@@ -1,0 +1,43 @@
+body{
+	background-color: #d59898;
+}
+*,h1 { 
+	font-family: "Grenze Gotisch", Itim, "Comic Sans MS", sans-serif;
+	box-sizing: border-box;
+}
+
+h1{
+	font-size: 7em;
+	color: black;
+}
+h2{
+	color: #16002c;
+}
+.beef{
+	color: #400080;	
+}
+ul,h2{
+	text-decoration: wavy;
+	font-size: 2.5em;
+	font-family: "Grenze Gotisch", Itim, "Comic Sans MS", sans-serif;
+}
+p {
+	font-family: Itim, "Comic Sans MS", sans-serif;
+}
+section{
+	border: 10px inset #400080;
+	background-color:   #999999;
+	padding: 50px;
+	margin: 30px;
+	font-size: 1.5em;
+}
+#chicken{background-color: #c14543; color: whitesmoke;}
+#beef{background-color: #e5d198;}
+#sushi{background-color: #c14543; color: whitesmoke;}
+
+.brand{
+	font-size: 3.5em;
+}
+li:hover { 
+	background-color:  #d59898;
+  }
